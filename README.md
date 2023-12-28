@@ -9,11 +9,12 @@ Los algoritmos que presentamos en este repositorio son para el curso de Estructu
 ## M-Tree
 
 ## Herramientas Usadas
-![Ejemplo de imagen](/img/Colab.png)
-![Ejemplo de imagen](/img/seaborn.png)
-![Ejemplo de imagen](/img/matplotlib.png)
-![Ejemplo de imagen](/img/pandas.png)
-![Ejemplo de imagen](/img/Python.png)
+<img src="/img/Colab.png" alt="Ejemplo de imagen" width="200">
+<img src="/img/seaborn.png" alt="Ejemplo de imagen" width="200">
+<img src="/img/matplotlib.png" alt="Ejemplo de imagen" width="200">
+<img src="/img/pandas.png" alt="Ejemplo de imagen" width="200">
+<img src="/img/Python.png" alt="Ejemplo de imagen" width="200">
+
 - Google Colab
 - Python
 - Libreria Pandas
