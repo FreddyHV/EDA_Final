@@ -13,7 +13,7 @@ Los algoritmos que presentamos en este repositorio son para el curso de Estructu
 ![Ejemplo de imagen](/img/seaborn.png)
 ![Ejemplo de imagen](/img/matplotlib.png)
 ![Ejemplo de imagen](/img/pandas.png)
-![Ejemplo de imagen](/img/python.png)
+![Ejemplo de imagen](/img/Python.png)
 - Google Colab
 - Python
 - Libreria Pandas
