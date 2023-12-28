@@ -6,10 +6,13 @@ Los algoritmos que presentamos en este repositorio son para el curso de Estructu
 - Princce Yorwin Mariños Hilario
 - Diego Alonso Zanabri Sacsi
 
+## Introducción
+
+## Problema
+
 ## M-Tree
-
+<img src="/img/Mtree.png" alt="Ejemplo de imagen" width="200">
 ## Herramientas Usadas
-
 
 - Google Colab
   <img src="/img/Colab.png" alt="Ejemplo de imagen" width="200">
