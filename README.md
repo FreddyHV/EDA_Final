@@ -7,11 +7,14 @@ Los algoritmos que presentamos en este repositorio son para el curso de Estructu
 - Diego Alonso Zanabri Sacsi
 
 ## Introducción
-<img src="/img/intro.png" alt="Ejemplo de imagen" width="200">
+<img src="/img/intro.png" alt="Ejemplo de imagen" width="700">
+
 ## Problema
-<img src="/img/problem.png" alt="Ejemplo de imagen" width="200">
+<img src="/img/problem.png" alt="Ejemplo de imagen" width="700">
+
 ## M-Tree
-<img src="/img/Mtree.png" alt="Ejemplo de imagen" width="200">
+<img src="/img/Mtree.png" alt="Ejemplo de imagen" width="700">
+
 ## Herramientas Usadas
 
 - Google Colab
@@ -23,9 +26,19 @@ Los algoritmos que presentamos en este repositorio son para el curso de Estructu
 - Matplotlib y Seaborn
   <img src="/img/matplotlib.png" alt="Ejemplo de imagen" width="200">
   <img src="/img/seaborn.png" alt="Ejemplo de imagen" width="200">
+  
 ## Dataset
+<img src="/img/data.png" alt="Ejemplo de imagen" width="700">
+
 ## Inserción
+<img src="/img/insertion.png" alt="Ejemplo de imagen" width="700">
+
 ## Consultas
+<img src="/img/consultas.png" alt="Ejemplo de imagen" width="700">
+
 ## Resultados
+<img src="/img/resultados.png" alt="Ejemplo de imagen" width="700">
+
 ## Conclusiones
+<img src="/img/conclusiones.png" alt="Ejemplo de imagen" width="700">
 
