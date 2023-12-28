@@ -9,8 +9,12 @@ Los algoritmos que presentamos en este repositorio son para el curso de Estructu
 ## M-Tree
 
 ## Herramientas Usadas
-- Google Colab
 ![Ejemplo de imagen](/img/Colab.png)
+![Ejemplo de imagen](/img/seaborn.png)
+![Ejemplo de imagen](/img/matplotlib.png)
+![Ejemplo de imagen](/img/pandas.png)
+![Ejemplo de imagen](/img/python.png)
+- Google Colab
 - Python
 - Libreria Pandas
 - Matplotlib y Seaborn
