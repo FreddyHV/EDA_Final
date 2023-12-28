@@ -10,6 +10,7 @@ Los algoritmos que presentamos en este repositorio son para el curso de Estructu
 
 ## Herramientas Usadas
 - Google Colab
+![Ejemplo de imagen](/img/Colab.png)
 - Python
 - Libreria Pandas
 - Matplotlib y Seaborn
