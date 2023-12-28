@@ -24,6 +24,7 @@ Los algoritmos que presentamos en este repositorio son para el curso de Estructu
 - Libreria Pandas
   <img src="/img/pandas.png" alt="Ejemplo de imagen" width="200">
 - Matplotlib y Seaborn
+  
   <img src="/img/matplotlib.png" alt="Ejemplo de imagen" width="200">
   <img src="/img/seaborn.png" alt="Ejemplo de imagen" width="200">
   
@@ -40,5 +41,5 @@ Los algoritmos que presentamos en este repositorio son para el curso de Estructu
 <img src="/img/resultados.png" alt="Ejemplo de imagen" width="900">
 
 ## Conclusiones
-<img src="/img/conclusiones.png" alt="Ejemplo de imagen" width="900">
+<img src="/img/conclusiones.png" alt="Ejemplo de imagen" width="1000">
 
