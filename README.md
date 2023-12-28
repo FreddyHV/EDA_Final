@@ -7,13 +7,13 @@ Los algoritmos que presentamos en este repositorio son para el curso de Estructu
 - Diego Alonso Zanabri Sacsi
 
 ## Introducción
-<img src="/img/intro.png" alt="Ejemplo de imagen" width="700">
+<img src="/img/intro.png" alt="Ejemplo de imagen" width="900">
 
 ## Problema
-<img src="/img/problem.png" alt="Ejemplo de imagen" width="700">
+<img src="/img/problem.png" alt="Ejemplo de imagen" width="900">
 
 ## M-Tree
-<img src="/img/Mtree.png" alt="Ejemplo de imagen" width="700">
+<img src="/img/Mtree.png" alt="Ejemplo de imagen" width="900">
 
 ## Herramientas Usadas
 
@@ -28,17 +28,17 @@ Los algoritmos que presentamos en este repositorio son para el curso de Estructu
   <img src="/img/seaborn.png" alt="Ejemplo de imagen" width="200">
   
 ## Dataset
-<img src="/img/data.png" alt="Ejemplo de imagen" width="700">
+<img src="/img/data.png" alt="Ejemplo de imagen" width="900">
 
 ## Inserción
-<img src="/img/insertion.png" alt="Ejemplo de imagen" width="700">
+<img src="/img/insertion.png" alt="Ejemplo de imagen" width="900">
 
 ## Consultas
-<img src="/img/consultas.png" alt="Ejemplo de imagen" width="700">
+<img src="/img/consultas.png" alt="Ejemplo de imagen" width="900">
 
 ## Resultados
-<img src="/img/resultados.png" alt="Ejemplo de imagen" width="700">
+<img src="/img/resultados.png" alt="Ejemplo de imagen" width="900">
 
 ## Conclusiones
-<img src="/img/conclusiones.png" alt="Ejemplo de imagen" width="700">
+<img src="/img/conclusiones.png" alt="Ejemplo de imagen" width="900">
 
